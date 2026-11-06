@@ -1,4 +1,4 @@
-The MIT license is used for 'src/edge_tts/srt_composer.py' only. All
+edge-tts --voice ar-EG-ShakirNeural --text "إزاي الميكروويف بيسخّن الأكل من غير نار؟ تعالوا نشوف." --write-media 1.mp3The MIT license is used for 'src/edge_tts/srt_composer.py' only. All
 remaining files are licensed under the LGPLv3.
 
 -----------------------------------------------------------------------
